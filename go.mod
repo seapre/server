@@ -4,8 +4,8 @@ require (
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/gin-contrib/cors v1.3.1
 	github.com/gin-contrib/gzip v0.0.2
-	github.com/gin-gonic/gin v1.6.3
-	github.com/go-playground/validator/v10 v10.3.0
+	github.com/gin-gonic/gin v1.7.7
+	github.com/go-playground/validator/v10 v10.4.1
 	github.com/gobuffalo/envy v1.9.0 // indirect
 	github.com/gobuffalo/logger v1.0.3 // indirect
 	github.com/gobuffalo/packd v1.0.0 // indirect
